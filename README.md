@@ -5,13 +5,17 @@
 </p>
 
 ### 👋 About Me
+### About Me
 
-I'm a developer from Pakistan with a foundation in C++ and Python, currently building out full-stack web development and AI/ML skills.
+I'm a developer from Pakistan and a final-year Software Engineering student, with a foundation in C++ and Python and a growing focus on full-stack web development and AI/ML.
 
-- 💻 Comfortable with core programming fundamentals in C++, Python, and SQL
-- 🌐 Learning full-stack web development with Next.js, React, PostgreSQL, and Supabase
-- 🤖 Exploring machine learning, computer vision, and AI agents built with RAG
-- 🛠️ Comfortable with Git/GitHub, Docker, and deploying with Vercel
+- Final-year Software Engineering student interested in building interactive and intelligent systems
+- Comfortable with core programming fundamentals in C++, Python, and SQL
+- Currently developing my skills in frontend development, AI integration, and AI automation 
+- Exploring intelligent systems, machine learning, computer vision, and AI agents built with RAG
+- building practical solutions that are functional and user-focused
+- Comfortable with Git/GitHub, Docker, and deploying applications with Vercel
+- Interested in continuously improving my problem-solving skills and learning new technologies
 
 ### 🛠️ Tech Stack
 
