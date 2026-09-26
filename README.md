@@ -52,7 +52,7 @@ I'm a developer from Pakistan with a foundation in C++ and Python, currently bui
 ### 📫 Connect with me
 
 <!-- Delete any line you don't want, or fill in the real link -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syrusnaseer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syrus-naseer)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syrus7083@gmail.com)
 
 <p align="center"><i>Thanks for stopping by! ⭐</i></p>
