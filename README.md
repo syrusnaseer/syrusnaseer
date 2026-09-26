@@ -1,15 +1,13 @@
 <h1 align="center">Hi there, I'm Syrus 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Hi+there%2C+I+am+Syrus+%F0%9F%91%8B;Full-stack+developer;Exploring+AI%2C+ML+%26+web+development+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Hi+there%2C+I+am+Syrus;Software+Engineer;Web+Developer;Exploring+AI+%26+ML;" alt="Typing SVG" />
 </p>
 
-### 👋 About Me
-### About Me
+###  About Me
 
 I'm a developer from Pakistan and a final-year Software Engineering student, with a foundation in C++ and Python and a growing focus on full-stack web development and AI/ML.
 
-- Final-year Software Engineering student interested in building interactive and intelligent systems
 - Comfortable with core programming fundamentals in C++, Python, and SQL
 - Currently developing my skills in frontend development, AI integration, and AI automation 
 - Exploring intelligent systems, machine learning, computer vision, and AI agents built with RAG
